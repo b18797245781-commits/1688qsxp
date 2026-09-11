@@ -1,0 +1,12 @@
+# 历次修改备份
+/*.bak.html
+
+# 旧版副本与预览文件
+/index.html
+/preview_qtip.html
+
+# 对比截图（根目录 PNG 均为过程产物）
+/*.png
+
+# 内部配置
+/.trae/
